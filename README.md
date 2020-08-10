@@ -1,4 +1,9 @@
-### Hi there My name is swagath shetty and I am a self taught full stack developer 👋
+## Hi there My name is swagath shetty and I am a self taught full stack developer 👋
+
+
+I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,techincal writing
+
+Apart from coding I also spend a lot of time writing techincal documentations. 
 
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
