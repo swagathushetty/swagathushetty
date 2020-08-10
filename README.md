@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My name is swagath shetty and I am a self taught full stack developer 👋
 
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
