@@ -1,12 +1,3 @@
-# Hi there My name is swagath shetty and I am a self taught full stack developer 👋
-
-
-I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,techincal writing
-
-Apart from coding I also spend a lot of time writing techincal documentations. 
-
----
-I have built backend applications that uses the MVC architechture,OOP and 
 
 # Hi there My name is swagath shetty and I am a self taught full stack developer 👋
 
