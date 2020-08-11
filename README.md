@@ -8,8 +8,8 @@ Apart from coding I also spend a lot of time writing techincal documentations.
 ---
 I have built backend applications that uses the MVC architechture,OOP and 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
-![alt text](https://colorlib.com/wp/wp-content/uploads/sites/2/react-dev-tools-logo.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png=100x20)
+![alt text](https://colorlib.com/wp/wp-content/uploads/sites/2/react-dev-tools-logo.jpg=100x20)
 
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
