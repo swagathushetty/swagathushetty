@@ -20,14 +20,14 @@ I have built backend applications that uses the MVC architechture,OOP and
 
 Things that I bring to the table ->
 
--[x] Javascript
--[x] NodeJS
--[x] MongoDB
--[x] SQL
--[x] MVC architecture
--[x] OOP
--[x] Technical writing
--[x] worked with Windows/macOS(UNIX)/Linux 
+- [x] Javascript
+- [x] NodeJS
+- [x] MongoDB
+- [x] SQL
+- [x] MVC architecture
+- [x] OOP
+- [x] Technical writing
+- [x] worked with Windows/macOS(UNIX)/Linux 
  
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
