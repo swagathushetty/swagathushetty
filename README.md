@@ -10,7 +10,9 @@ Apart from coding I also spend a lot of time writing techincal documentations.
 I have written more than 50+ applications from a simple expense calculator to a full ecommerce website with payment and email intergration
 
 ---
-I have built backend applications that uses the MVC architechture,OOP and 
+I have built backend applications that uses the MVC architechture,OOP
+I also have the knowledge of the latest Front end react concepts like Hooks.
+
 
 Things that I bring to the table ->
 
