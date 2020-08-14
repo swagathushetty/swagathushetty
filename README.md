@@ -6,6 +6,9 @@ I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,techincal writing
 
 Apart from coding I also spend a lot of time writing techincal documentations. 
 
+
+I have written more than 50+ applications from a simple expense calculator to a full ecommerce website with payment and email intergration
+
 ---
 I have built backend applications that uses the MVC architechture,OOP and 
 
