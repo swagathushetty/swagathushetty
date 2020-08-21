@@ -2,7 +2,7 @@
 # Hi there I am swagath shetty and I am a self taught full stack developer 👋
 
 
-I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,techincal writing
+I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,technical writing
 
 Apart from coding I also spend a lot of time writing techincal documentations. 
 
