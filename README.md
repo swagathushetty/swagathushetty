@@ -1,5 +1,5 @@
 
-# Hi there I am swagath shetty and I am a self taught full stack developer 👋
+# Hi there I am swagath shetty and I am a full stack developer 👋
 
 
 I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,technical writing
