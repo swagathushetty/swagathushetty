@@ -10,7 +10,7 @@ I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,technical writing
 
 
 ---
-I have worked as a front end developer(React and React Native) for clients based in the US and middle east 
+I have worked as a front end developer(React and React Native) for clients based in the US and the middle east 
 
 
 Things that I bring to the table ->
