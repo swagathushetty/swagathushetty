@@ -4,7 +4,7 @@
 
 I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,technical writing
 
-Apart from coding I also spend a lot of time writing techincal documentations. 
+
 
 
 
