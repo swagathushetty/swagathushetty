@@ -2,27 +2,23 @@
 # Hi there I am swagath shetty and I am a full stack developer 👋
 
 
-I am proficient in JS,NodeJS,React,MongoDB,SQL,Hosting,technical writing
-
-
-
 
 
 
 ---
-I have worked as a front end developer(React and React Native) for clients based in the US and the middle east 
+I have worked as a front end developer(React and React Native) working on web and native mobile apps for clients based in the US and the middle east 
 
 
 Things that I bring to the table ->
 
 - [x] Javascript
+- [x] ReactJS 
+- [x] React Native
 - [x] NodeJS
-- [x] MongoDB
+- [x] Go
 - [x] SQL
-- [x] MVC architecture
-- [x] OOP
-- [x] Technical writing
-- [x] worked with Windows/macOS(UNIX)/Linux 
+- [x] MongoDB
+- [x] Techincal writing
  
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
