@@ -1,12 +1,12 @@
 
-# Hi there I am swagath shetty and I am a full stack developer 👋
+# Hi there I am swagath shetty and I am a full stack developer based in Navi-Mumbai 👋
 
 
 
 
 
 ---
-I have worked as a front end developer(React and React Native) working on web and native mobile apps for clients based in the US and the middle east 
+I have worked as a front end developer(React and React Native) working on web and native mobile apps
 
 
 Things that I bring to the table ->
@@ -18,7 +18,7 @@ Things that I bring to the table ->
 - [x] Go
 - [x] SQL
 - [x] MongoDB
-- [x] Techincal writing
+
  
 <!--
 **swagathushetty/swagathushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
